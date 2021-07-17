@@ -14,7 +14,7 @@ A list of sub-projects
 ### Objectives
 As the first step of Project_color, a database of popular palette is needed. One trivial way would be scraping this data from online sources. Alternatively, palette can be extracted from paintings by prestigeous artists. Data is obtained from Kaggle.
 ### Method
-877 paintings by Van Gogh were used as the training data to creat a popular color shceme database based on the palette extracted from eaching painting. Many people have done similar things or other datasets using KMeans algorithm. In this demo, 10 clusters were allowed for each painting, and only the 5 most common clusters were used to get the palette. [Click for details!](https://github.com/anyangpeng/DS_Portfolio/blob/main/Project_color/Color_Identification/Get_color_code.ipynb)
+877 paintings by Van Gogh were used as the training data to creat a popular color shceme database based on the palette extracted from eaching painting. Many people have done similar things or other datasets using KMeans algorithm. In this demo, 10 clusters were allowed for each painting, and only the 5 most dominant  clusters were used to get the palette. [Click for details!](https://github.com/anyangpeng/DS_Portfolio/blob/main/Project_color/Color_Identification/Get_color_code.ipynb)
 ### Results
 An example of the original input image and the palette extracted from it is shown blow. The script works properly, however, the results is far from perfect. A more accurate method will be discussed in the future.
 <p align="center">
