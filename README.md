@@ -21,7 +21,7 @@ This repository contains data science projects for the purpose of self-study and
 
 ## Projects
 
-### [Project chemicals]()
+### [Project chemicals](https://github.com/anyangpeng/DS_Portfolio/tree/main/Project_chemicals)
 
 This project demonstrates how to use tree-based models (**XGBoost**, **RandomForest**)to perform regression tasks. The dataset used in this project was scraped from _CRC Handbook of Chemistry and Physics_. The goal is to predict the boiling point of a given chemical knowing its structural information. Additional python packages used: _XGBoost_, _rdkit_, _shap_
 
@@ -29,7 +29,7 @@ This project demonstrates how to use tree-based models (**XGBoost**, **RandomFor
 
 </p>
 
-### [Project color]()
+### [Project color](https://github.com/anyangpeng/DS_Portfolio/tree/main/Project_color)
 
 This project demonstrates how to use **K-Means** algorithm to perform clustering tasks. The goal is to extract the palette of a given painting. Additional python packages used: _cv2_, _collections_
 
@@ -37,19 +37,19 @@ This project demonstrates how to use **K-Means** algorithm to perform clustering
 
 </p>
 
-### [Project IRCC]()
+### [Project IRCC](https://github.com/anyangpeng/DS_Portfolio/tree/main/Project_IRCC)
 
 This project
 
-### [Project Titanic]()
+### [Project Titanic](https://github.com/anyangpeng/DS_Portfolio/blob/main/Project_Titanic/Titanic.ipynb)
 
 This project
 
-### [Project pH]()
+### [Project pH](https://github.com/anyangpeng/DS_Portfolio/blob/main/Project_pH/pH.ipynb)
 
 This project
 
-### [Project insurance]()
+### [Project insurance](https://github.com/anyangpeng/DS_Portfolio/blob/main/Project_insurance/insurance.ipynb)
 
 This project
 
