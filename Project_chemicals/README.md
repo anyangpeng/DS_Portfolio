@@ -34,6 +34,8 @@ We want to check if the boiling point has a skewed distribution and to check if 
 
 <p align="center">
   <img width="388" alt="image" src="https://user-images.githubusercontent.com/66216181/176577634-e76f7e43-8275-407d-8245-cbca2a46b4a7.png">
+</p>
+<p align="center">
   <img width="603" alt="image" src="https://user-images.githubusercontent.com/66216181/176577713-9acca6ec-d003-49dd-b4bf-ea73ab1516d5.png">
 
 </p>
@@ -52,8 +54,8 @@ We then generate quantitative features to describe the molecules using their SMI
 Several descriptors are chosen to predict the target value. Two different tree ensembles are demonstrated here, the RandomForest regressor using bagging method and the XGBoost Regressor using gradient boosting method. From the parity plot, we can see that both algorithms can make reasonable predictions of boiling points. The dataset is very small, so XGBoost does not significantly outperform RandomForest. to understand the importance of the features in the model, we can use a package called "SHAP".
 
 <p align="center">
-  <img width="342" alt="image" src="https://user-images.githubusercontent.com/66216181/176578406-9df024cb-13ab-4bd0-b90d-78d68011be2a.png">
-  <img width="521" alt="image" src="https://user-images.githubusercontent.com/66216181/176578480-1999ed45-1b0d-4f6b-aeae-2ca90b9531e0.png">
+  <img width="344" alt="image" src="https://user-images.githubusercontent.com/66216181/176578406-9df024cb-13ab-4bd0-b90d-78d68011be2a.png">
+  <img width="500" alt="image" src="https://user-images.githubusercontent.com/66216181/176578480-1999ed45-1b0d-4f6b-aeae-2ca90b9531e0.png">
 
 </p>
 
