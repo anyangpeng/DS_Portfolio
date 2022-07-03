@@ -1,0 +1,888 @@
+	Title	Location
+0	Data Scientist	Montreal, QC
+1	Senior Data Scientist	Vancouver, BC
+2	Staff Data Scientist	Greater Toronto Area, Canada
+3	Data Science Product Manager	Toronto, ON
+4	Research Scientist, Google Research	Montreal, QC
+5	Applied Research Scientist	Mississauga, ON
+6	Process Data Scientist	Toronto, ON
+7	Research Scientist - Deep Learning	Toronto, ON
+8	Data Scientist - Product Data Science	Toronto, ON
+9	Data Scientist	Quebec, Canada
+10	Operations Research Scientist/Data Scientist - Vancouver, Canada/Remote	Vancouver, BC
+11	Data Scientist	Toronto, Ontario, Canada
+12	Data Scientist	Vancouver, BC
+13	Data Scientist	Ottawa, ON
+14	Data Scientist Associate	Montreal, QC
+15	Data Scientist	Toronto, ON
+16	AI Researcher	Greater Montreal Metropolitan Area
+17	Artificial Intelligence  Researcher	Burnaby, BC
+18	Data Scientist	Toronto, ON
+19	Data Scientist Graduate	Toronto, ON
+20	Machine Learning Engineer	Markham, ON
+21	Data Scientist, Ecommerce	Toronto, ON
+22	Data Scientist	Toronto, ON
+23	Research Scientist	Toronto, ON
+24	Senior Data Scientist	Toronto, ON
+25	Data Scientist	Mississauga, ON
+26	Digital Data Scientist	Dorval, QC
+27	Senior Research Scientist	Montreal, QC
+28	Data Scientist	Edmonton, AB
+29	Research Scientist	Toronto, ON
+30	Data Scientist	Greater Toronto Area, Canada
+31	Data Scientist	Calgary, AB
+32	Research Scientist	Waterloo, ON
+33	Data Scientist (Remote)	Toronto, ON
+34	Data Scientist	Toronto, ON
+35	DATA SCIENTIST	Montreal, QC
+36	Lead Data Scientist- Innovation Lab	Toronto, ON
+37	Data Scientist, Verily Health Platforms	Waterloo, ON
+38	Data Scientist	Vancouver, BC
+39	Data Scientist	Toronto, ON
+40	Data Scientist	Toronto, ON
+41	Data Scientist	Montreal, QC
+42	Senior Data Scientist	Calgary, AB
+43	Data Scientist / Developer	Montreal, QC
+44	Senior Data Scientist	Vancouver, BC
+45	Senior Data Scientist	Canada
+46	Staff Research Scientist	Toronto, ON
+47	Data Scientist	Montreal, QC
+48	Data Scientist	Greater Montreal Metropolitan Area
+49	Data Scientist	Toronto, ON
+50	Analyst Data Science	Toronto, ON
+51	Data Scientist, Growth	Canada
+52	Lead Data Scientist	Montreal, QC
+53	Data Scientist	Toronto, ON
+54	Data Scientist	Toronto, ON
+55	Data Scientist, Advanced Analytics, Global Risk Management - Toronto, ON	Greater Toronto Area, Canada
+56	Data Scientist	Toronto, ON
+57	Data Scientist, Omnia AI	Toronto, ON
+58	Senior Data Scientist	Toronto, ON
+59	Data Scientist	Richmond Hill, ON
+60	Data Scientist	Calgary, AB
+61	Senior Data Scientist	Toronto, ON
+62	Data Scientist	Edmonton, AB
+63	Machine Learning Engineer	Mississauga, ON
+64	Applied Data Scientist	Montreal, QC
+65	Data Scientist	Oakville, ON
+66	Machine Learning Engineer	Montreal, QC
+67	Data Scientist	Toronto, ON
+68	Senior Data Scientist	Montreal, QC
+69	Data Scientist	Montreal, QC
+70	Applied Machine Learning Research Scientist	Montreal, QC
+71	Data Scientist	Toronto, ON
+72	Data Scientist, Analytics	Toronto, ON
+73	Data Scientist	Toronto, ON
+74	Data Scientist - Innovation & Attributes	Toronto, ON
+75	Researcher — Staff Scientist	Vancouver, BC
+76	Research Scientist, Toronto	Toronto, ON
+77	Senior Data Scientist	Toronto, ON
+78	Data and Analytics Quantitative Analyst	Montreal, QC
+79	Data Scientist	Canada
+80	Data Scientist	Richmond Hill, ON
+81	Educator, Data Scientist	Toronto, ON
+82	Research Scientist	Boisbriand, QC
+83	Remote Sensing Scientist	Winnipeg, MB
+84	Data Scientist	Kitchener, ON
+85	Senior Machine Learning Engineer - Renewables	Vancouver, BC
+86	Data Scientist / Senior Data Scientist - North American Integrated Analytics	Greater Toronto Area, Canada
+87	Data Scientist - Canada	Toronto, ON
+88	Consultant, Data Science	Toronto, ON
+89	Expert Data Science	Montreal, QC
+90	UX Quantitative Researcher	Toronto, ON
+91	Quantitative Engineer -Global Markets - FAST Credit Strats	Toronto, ON
+92	Applied Research Scientist - NLP/ML	Toronto, ON
+93	Inference Data Scientist	Halifax, NS
+94	Machine Learning Researcher	Vancouver, BC
+95	Machine Learning Engineer	Toronto, ON
+96	Data Scientist	Boucherville, QC
+97	Data Scientist - RACE21	Vancouver, BC
+98	Data Analyst	Victoria, BC
+99	Analyst, Data & Modelling	Toronto, ON
+100	Data Scientist / Scientifique des données	Montreal, QC
+101	Data Scientist	Vancouver, BC
+102	Data Scientist - Data Analytics and Infrastructure (remote)	Toronto, ON
+103	Data Scientist, Machine Learning	Waterloo, ON
+104	Data Science Analyst (Remote)	Toronto, ON
+105	Machine Learning Engineer	Vancouver, BC
+106	Clinical Research Scientist	Montreal, QC
+107	Data Science Analyst	Toronto, ON
+108	Data Scientist	Canada
+109	Machine Learning Researcher	Vancouver, BC
+110	Data Scientist (Digital Solutions)	Vancouver, BC
+111	Quantitative UX Researcher	Toronto, ON
+112	Machine Learning Engineer - NLP	Toronto, ON
+113	Data Scientist	Toronto, ON
+114	Junior Data Analyst	Vancouver, BC
+115	Data Visualization Analyst	Toronto, ON
+116	Senior Data Scientist	Greater Toronto Area, Canada
+117	Data Scientist / Engineer	Toronto, ON
+118	Research Scientist, CryptoEconLab	Edmonton, Alberta, Canada
+119	Data Scientist, People Analytics	Brampton, ON
+120	Postdoctoral Researcher	Montréal-Est, QC
+121	Data Scientist	Québec, QC
+122	Product Data Scientist	Montreal, QC
+123	Machine Learning Applied Scientist	Vancouver, BC
+124	Senior Data Scientist	Montreal, QC
+125	Data Scientist, R&D for Data Analytics Platform	Toronto, ON
+126	Machine Learning Scientist - Senior	Montreal, QC
+127	Data Analyst	Toronto, ON
+128	Data Scientist	Toronto, ON
+129	Senior Consultant - Advanced Solutions, Energy Data Scientist - Campus 2021	Toronto, ON
+130	Research & Analytics Director - Data Scientist	Toronto, ON
+131	Senior Data Scientist	Canada
+132	Data Scientist & Analyst (PhD Required)	Vancouver, BC
+133	Data Scientist-Consumer Classification	Vancouver, BC
+134	Data Scientist - Commercial Analytics	Toronto, ON
+135	Sr. Data Scientist, Personalization / Machine Learning	Waterloo, ON
+136	Intermediate Data Scientist	St Albert, AB
+137	Data Scientist	Windsor, ON
+138	Lead Data Scientist	Toronto, ON
+139	Data Scientist – Search (Contract)	Toronto, ON
+140	Translational Research Scientist	Mississauga, ON
+141	R Data Analyst, Data + Analytics	Toronto, ON
+142	Scientifique des données / Data Scientist	Montreal, Quebec, Canada
+143	Data Scientist -NLP	Mississauga, ON
+144	Machine Learning Researcher	Toronto, ON
+145	Senior Data Scientist	Toronto, ON
+146	Data Scientist, Shopping	Toronto, ON
+147	Machine Learning Engineer (Tensor Flow , PyTorch)	Canada
+148	Associate Machine Learning Scientist	Calgary, AB
+149	Analyst Data Science	Winnipeg, MB
+150	Chief Data Scientist	Toronto, ON
+151	Sr. Research Scientist, Evidence Synthesis (Remote)	Vancouver, BC
+152	Senior Data Scientist	Greater Toronto Area, Canada
+153	Data Scientist II - R-37837	Toronto, Ontario, Canada
+154	Data Scientist	Vancouver, BC
+155	Data Analyst (Remote - Canada)	Montreal, QC
+156	Imaging Researcher	Montreal, QC
+157	Machine Learning Engineer	Montreal, QC
+158	Data Scientist – Revenue management	Montreal, QC
+159	Data Scientist	Toronto, ON
+160	Machine Learning Engineer	Vancouver, BC
+161	Data Scientist	Toronto, ON
+162	Machine Learning Engineer	Toronto, ON
+163	AI Data Scientist	Greater Toronto Area, Canada
+164	Data Science Principal	Montreal, QC
+165	Data Science Manager	Vancouver, BC
+166	Senior Data Scientist (Canada)	Montreal, QC
+167	Machine Learning Researcher/Engineer	Toronto, ON
+168	Head of Data Scientist	Vancouver, BC
+169	Data Scientist	Regina, Saskatchewan, Canada
+170	Junior Data Scientist	Toronto, Ontario, Canada
+171	Data & Statistical Analyst	Vancouver, BC
+172	Senior Data Scientist	Halifax, NS
+173	Analyst, Data Analytics	London, ON
+174	Data Scientist	Langley, BC
+175	Senior Data Scientist	Toronto, ON
+176	Senior Data Scientist	Toronto, ON
+177	Sr. Principal, Data Science And Machine Learning Development	Québec, QC
+178	Senior Data Scientist	Canada
+179	Senior Machine Learning Scientist	Toronto, ON
+180	Associate Data Scientist	Vaughan, Ontario, Canada
+181	Senior Data Scientist [Remote]	Toronto, ON
+182	Senior Data Scientist	Toronto, ON
+183	Sr. Data Scientist	British Columbia, Canada
+184	Lead Data Scientist	Toronto, ON
+185	Senior Data Scientist	Toronto, ON
+186	Data Scientist Lead	Toronto, ON
+187	Quantitative Researcher	Toronto, ON
+188	Data Scientist	Vancouver, BC
+189	Senior Machine Learning Engineer - Perception/ Autonomous Vehicles	Vancouver, BC
+190	Machine Learning Engineer	Montreal, QC
+191	Chercheur Scientifique Stagiaire (Automne 2021) - R&D ASR - Research Scientist Intern (Fall 2021)	Montreal, QC
+192	Data Scientist	Toronto, ON
+193	Machine Learning Engineer (Talent Program)	Ottawa, ON
+194	Statistical Data Analyst	Newmarket, ON
+195	Data Scientist	Montreal, QC
+196	Machine Learning Engineer, Bioinformatics	Greater Toronto Area, Canada
+197	Software Engineer, Machine Learning	Vancouver, BC
+198	Data Analyst	Vancouver, BC
+199	Data Analyst	Canada
+200	Data Analyst	Burnaby, BC
+201	Junior Data Engineer	Toronto, ON
+202	Product Manager and Data Scientist	Montreal, QC
+203	Lead Machine Learning Engineer	Toronto, ON
+204	Data Scientist (Machine Learning)	Montreal, QC
+205	Senior Data Scientist	Brampton, ON
+206	Scientifique de données	Montreal, QC
+207	Data Scientist/Analytics Engineer	Montreal, QC
+208	Data Scientist/Developer	Calgary, AB
+209	Gestionnaire - Senior Data Science	Montreal, QC
+210	Machine Learning Engineer, Time Series Predictive Modeling	Montreal, QC
+211	Data Scientist (Shopping Experience)	Toronto, ON
+212	Data Analyst	Victoria, BC
+213	Perception Research Engineer/Research Scientist - Deep Learning	Montreal, QC
+214	Research Software Developer - Machine Learning (Remote)	Calgary, AB
+215	Research Scientist (#22959)	Chalk River, ON
+216	Senior Research Scientist, Whitespace	Vancouver, BC
+217	Data Analyst	Montreal, QC
+218	Remote Machine Learning Engineer (Python, AWS)	Kitchener, ON
+219	Planning Data & Analytics Excellence Lead (Analyst)	Mississauga, ON
+220	Machine Learning Engineer	Toronto, ON
+221	Senior Developer, Data Science	Toronto, ON
+222	Data Analyst I	Ottawa, ON
+223	BI Data Scientist	Montreal, QC
+224	Principal Data Scientist - 12 Month Term	Alberta, Canada
+225	Research Scientist - In Vivo	Vancouver, BC
+226	Senior Data Scientist, DBX Core Data Science - Location Flexible	Toronto, ON
+227	Data Engineer	Markham, ON
+228	Senior Data Analyst	Toronto, ON
+229	Data Engineer	Toronto, ON
+230	Lead Data Scientist	Toronto, ON
+231	Data Analyst	Toronto, ON
+232	Canada-Research Associate IV (Scientific)	Toronto, ON
+233	Data Scientist	Toronto, ON
+234	Quantitative UX Researcher	Calgary, AB
+235	Data Analyst - E-Mobility (m/w/d)	Fairford (Part) 50, MB
+236	Data Analyst - Informatics And Systems	Burnaby, BC
+237	Intermediate Data Scientist - NuData Security	Vancouver, BC
+238	Data Analyst	Calgary, AB
+239	BI Data Scientist	Montreal, QC
+240	Data Scientist Technical Lead (Toronto), Intact Lab	Toronto, ON
+241	Data Analyst (Remote)	Toronto, ON
+242	Data Engineer	Toronto, ON
+243	[Freelance Position] - Assistant Researcher	Montreal, QC
+244	Data Analyst/ Analyste de données	Montreal, QC
+245	Machine Learning Engineer	Toronto, ON
+246	Scientist - Implementation Science	Calgary, AB
+247	Lead Quantitative Researcher, Alternative Data	Toronto, ON
+248	Senior Machine Learning Engineer	Toronto, ON
+249	Applied Scientist, Alexa AI	Vancouver, BC
+250	Data Science Solution Developer	Markham, ON
+251	Senior Machine Learning Engineer, Explore	Canada
+252	Data Scientist - Financial Crimes	Toronto, ON
+253	Scientist - Implementation Science	Calgary, AB
+254	Data Analyst	Vancouver, BC
+255	Senior Data Scientist	Canada
+256	Global Data Analyst - Agriculture	Toronto, ON
+257	Data & Applied Scientist	Vancouver, BC
+258	Product Data Analyst	Toronto, ON
+259	Senior Data Analyst	Toronto, ON
+260	Data Analyst	Montreal, QC
+261	Senior Data Scientist	Toronto, ON
+262	Clinical Data Scientist II	Field, BC
+263	AI Researcher	Burnaby, BC
+264	Postdoc Researcher - FLA	Toronto, ON
+265	Data Scientist	Toronto, ON
+266	Senior Machine Learning Scientist	Toronto, ON
+267	Lead Quantitative Researcher, Alternative Data	Toronto, ON
+268	Machine Learning Engineer - Modeler, Risk	Toronto, ON
+269	Data Engineering & Analytics Analyst	Calgary, AB
+270	Data Scientist - Canada	Toronto, ON
+271	QA Data Analyst	Montreal, QC
+272	Data Scientist	Calgary, AB
+273	Senior Research Scientist - AI Wireless	Montreal, QC
+274	Analyste scientifique des données	Montreal, QC
+275	Data Analyst - Wealth Management, PriceMetrix	Toronto, ON
+276	Data Analyst- Contract	Toronto, ON
+277	Senior Data Scientist (Remote)	Toronto, ON
+278	Senior Data Scientist	Toronto, ON
+279	Data Analyst	Toronto, ON
+280	Data Scientist - Senior (contract)	Montreal, QC
+281	Data Analyst	Montreal, QC
+282	Machine Learning Engineer	Toronto, ON
+283	2021 Research Intern – Data Science & Machine Learning	Ontario, Canada
+284	Data Analyst - LATAM	Montreal, QC
+285	Senior Data Scientist ML & NLP expert	Montreal, QC
+286	Data Engineer	Toronto, ON
+287	Data Analyst	Permanent North American Gaeltacht, ON
+288	Research Scientist, Google Research	Toronto, ON
+289	Data Scientist/Analyst and Fraud Detection	Toronto, ON
+290	Junior Data Analyst to support consumer health channel and marketing report program - 15892 - Remote	Vancouver, BC
+291	Data Scientist	Toronto, Ontario, Canada
+292	Data Scientist	Vancouver, BC
+293	Data Scientist Associate	Montreal, QC
+294	Senior Data Scientist	Toronto, ON
+295	Senior Data Scientist	Toronto, ON
+296	Data Scientist	Vancouver, BC
+297	Senior Machine Learning Engineer	Canada
+298	Machine Learning Engineer	Waterloo, ON
+299	Senior Data Scientist (Remote)	Toronto, ON
+300	Machine Learning Engineer	Toronto, ON
+301	Data Scientist	Calgary, AB
+302	Data Scientist Associate	Montreal, QC
+303	Senior Data Scientist	Toronto, ON
+304	Associate Data Scientist Co-Op/Intern	Toronto, ON
+305	Inference Data Scientist	Montreal, QC
+306	Data Scientist	Toronto, ON
+307	Educator, Data Scientist	Vancouver, BC
+308	Senior Data Scientist	Toronto, ON
+309	Data Scientist (Digital Solutions)	Toronto, ON
+310	Senior Data Scientist	Vancouver, BC
+311	Data Scientist	Toronto, ON
+312	Machine Learning Engineer	Vancouver, BC
+313	Researcher — Postdoctoral Research Fellow	Vancouver, BC
+314	Machine Learning Scientist - Senior	Vancouver, BC
+315	Senior Research Scientist, Applied ML	Montreal, QC
+316	Expert Data Science	Toronto, ON
+317	Data Science Principal	Montreal, QC
+318	Senior Consultant, Data Science	Greater Toronto Area, Canada
+319	Senior Data Scientist	Ontario, Canada
+320	Senior Data Scientist	Canada
+321	Senior Data Scientist (Remote)	Toronto, ON
+322	Senior Data Scientist	Vancouver, BC
+323	Data Scientist Lead	Canada
+324	Sr. Data Scientist	Vancouver, BC
+325	Senior Machine Learning Engineer, Explore	Canada
+326	Senior Machine Learning Engineer	Toronto, ON
+327	Postdoc Researcher - FLA	Toronto, ON
+328	Data Scientist	Calgary, AB
+329	Senior Data Scientist	Montreal, QC
+330	Data Scientist	Mississauga, ON
+331	Machine Learning Engineer - North American Integrated Analytics Team	Toronto, ON
+332	Senior Data Scientist	Oakville, ON
+333	Data Scientist - Canada	Toronto, ON
+334	Data Scientist - Product Analytics	Toronto, ON
+335	Data Scientist	Calgary, AB
+336	Software Engineer - Machine Learning (Remote)	Calgary, AB
+337	Data Scientist	Brampton, ON
+338	Machine Learning Engineer	Waterloo, ON
+339	Data Scientist	Toronto, ON
+340	Senior Machine Learning Engineer	Canada
+341	Data Scientist	Toronto, ON
+342	Educator, Data Scientist	Vancouver, BC
+343	Machine Learning Engineer	Markham, ON
+344	Data Scientist , Operations Research - RACE21	Vancouver, BC
+345	Associate Data Scientist Co-Op/Intern	Toronto, ON
+346	Data Scientist – Search (Contract)	Calgary, AB
+347	Senior Data Scientist, Advanced Analytics, Global Risk Management	Greater Toronto Area, Canada
+348	Senior Data Scientist	Toronto, ON
+349	Data Scientist (Digital Solutions)	Toronto, ON
+350	Inference Data Scientist	Montreal, QC
+351	Data Analyst	Vancouver, BC
+352	Senior Data Scientist	Vancouver, BC
+353	Data Scientist	Toronto, ON
+354	Machine Learning Engineer	Vancouver, BC
+355	Researcher — Postdoctoral Research Fellow	Vancouver, BC
+356	Machine Learning Scientist - Senior	Vancouver, BC
+357	Senior Research Scientist, Applied ML	Montreal, QC
+358	Graduate Student Researcher	Winnipeg, MB
+359	Scientifique de Données	Montreal, QC
+360	Research Scientist, ConsensusLab	Edmonton, Alberta, Canada
+361	Senior Data Scientist	Toronto, ON
+362	Principal Consultant, Data Science	Toronto, ON
+363	Senior Data Scientist	Québec, QC
+364	Data Science Principal	Montreal, QC
+365	Senior Data Scientist	Ontario, Canada
+366	Data Scientist Lead	Canada
+367	Graduate Student Researcher	Winnipeg, MB
+368	Software Engineer - Machine Learning (Remote)	Calgary, AB
+369	Sr. Data Scientist	Vancouver, BC
+370	Data Scientist, Gestion des revenus	Montreal, QC
+371	Senior Applied Research Scientist - NLP	Toronto, ON
+372	Senior Data Scientist	Oakville, ON
+373	Senior Data Scientist	Toronto, ON
+374	Scientifique de Données	Montreal, QC
+375	Research Scientist, ConsensusLab	Edmonton, Alberta, Canada
+376	Director, Customer Intelligence and Data Science	Mississauga, ON
+377	Data Scientist, AWS Security	Ottawa, ON
+378	Data Science Manager (Bangkok based)	Toronto, ON
+379	Machine Learning Engineer - Core Library/Framework	Ontario, Canada
+380	Data Analyst, Omnia AI (CDC)	Montreal, QC
+381	Data Scientist , Operations Research - RACE21	Vancouver, BC
+382	Data Scientist – Search (Contract)	Calgary, AB
+383	Lead Machine Learning Engineer	Toronto, ON
+384	Chercheur Scientifique Stagiaire (Automne 2021) - Research Scientist Intern (Fall 2021)	Montreal, QC
+385	Data Scientist	Toronto, ON
+386	Machine Learning Engineer	Markham, ON
+387	Associate, Process Management	Toronto, ON
+388	Senior Data Scientist, Advanced Analytics, Global Risk Management	Greater Toronto Area, Canada
+389	Senior Data Scientist	Toronto, ON
+390	Data Scientist, Growth & Retention	Oakville, ON
+391	Evaluation Researcher	Montreal, QC
+392	Data Analyst	Vancouver, BC
+393	Clinical Research Scientist SPF	Montreal, QC
+394	Data Analyst	Toronto, ON
+395	Principal Consultant, Data Science	Toronto, ON
+396	Senior Data Scientist	Toronto, ON
+397	Data Engineer - R-37615	Toronto, Ontario, Canada
+398	SCIENTIFIQUE DES DONNÉES	Montreal, QC
+399	Scientifique de données / Data Scientist	Montreal, QC
+400	Machine Learning Engineer, Natural Language Processing	Montreal, QC
+401	Data Scientist – Automated Market Making Team	Montreal, QC
+402	Machine Learning Engineer	Toronto, ON
+403	Machine Learning Engineer	Toronto, ON
+404	Data Scientist	Toronto, ON
+405	Perception Research Engineer/Research Scientist - Deep Learning	Toronto, ON
+406	Machine Learning Engineer, Shopping Discovery	Toronto, ON
+407	Product Manager, Data Science	Toronto, Ontario, Canada
+408	Digital Data Engineer	Dorval, QC
+409	Machine Learning Applied Scientist	British Columbia, Canada
+410	Senior Data Scientist, GANs	Toronto, ON
+411	Senior Data Scientist, Natural Language Processing	Toronto, ON
+412	Data Analyst I	Edmonton, AB
+413	Senior Data Scientist	Québec, QC
+414	Sr. Data Scientist, Wish Local	Toronto, ON
+415	Lead Machine Learning Engineer	Toronto, ON
+416	Data Scientist, Gestion des revenus	Montreal, QC
+417	Data Scientist – Automated Market Making Team	Montreal, QC
+418	Machine Learning Engineer - Core Library/Framework	Ontario, Canada
+419	Data Analyst | Analyste de Données	Montreal, QC
+420	Senior Applied Research Scientist - NLP	Toronto, ON
+421	Senior Machine Learning Engineer	Toronto, ON
+422	Senior Data Scientist	Toronto, ON
+423	Senior Research Scientist, Simulation and Technology	Toronto, ON
+424	Machine Learning Engineer	Toronto, ON
+425	Data Analyst	Toronto, ON
+426	Data Science Manager (Bangkok based)	Toronto, ON
+427	Lead Machine Learning Engineer	Toronto, ON
+428	Chercheur Scientifique Stagiaire (Automne 2021) - Research Scientist Intern (Fall 2021)	Montreal, QC
+429	Associate, Process Management	Toronto, ON
+430	Data Scientist, Growth & Retention	Oakville, ON
+431	Data Engineer - R-37615	Toronto, Ontario, Canada
+432	Machine Learning Engineer	Toronto, ON
+433	Translational Research Associate	Mississauga, ON
+434	Data Scientist, Revenue & Growth Finance - Location Flexible	Toronto, ON
+435	Data Scientist, Liquidity and Funding Management	Toronto, ON
+436	Associate Data Scientist (AADP Rotational Program)	Toronto, ON
+437	Staff AI Research Scientist - ATG	Montreal, QC
+438	Data Scientist	Toronto, ON
+439	Perception Research Engineer/Research Scientist - Deep Learning	Toronto, ON
+440	Senior UX Researcher	Vancouver, BC
+441	Clinical Research Scientist SPF	Montreal, QC
+442	Machine Learning Engineer, Shopping Discovery	Toronto, ON
+443	Product Manager, Data Science	Toronto, Ontario, Canada
+444	Digital Data Engineer	Dorval, QC
+445	Machine Learning Applied Scientist	British Columbia, Canada
+446	Senior Data Scientist, GANs	Toronto, ON
+447	Senior Data Scientist, Natural Language Processing	Toronto, ON
+448	Data Analyst I	Edmonton, AB
+449	Data Scientist Technical Lead (Montreal), Intact Lab	Montreal, QC
+450	Sr. Data Scientist - Experimentation	Waterloo, ON
+451	Product Data Analyst	Montreal, QC
+452	Staff Data Scientist	Toronto, ON
+453	Data Analyst	Greater Calgary Metropolitan Area
+454	Senior Machine Learning Engineer	Vancouver, BC
+455	Lead Quantitative Researcher, Alternative Data	Ontario, Canada
+456	Canada-Research Associate IV (Scientific) #: 21-11863	Toronto, ON
+457	Data Science Engineer	Victoria, BC
+458	Principal Machine Learning Engineer (Remote US or US Autodesk Offices))	Montreal, QC
+459	Data Analyst	Vancouver, BC
+460	Research Scientist - Translational Biology	Vancouver, BC
+461	Senior Software Developer (NLP, AI and Machine Learning)	Markham, ON
+462	Machine Learning Developer	Ottawa, ON
+463	Principal NLP Researcher	Montreal, QC
+464	Sr. Data Scientist, Wish Local	Toronto, ON
+465	Lead Machine Learning Engineer	Toronto, ON
+466	Data Analyst | Analyste de Données	Montreal, QC
+467	Data Analyst I	Edmonton, AB
+468	Staff AI Research Scientist - ATG	Montreal, QC
+469	Senior Research Scientist, Simulation and Technology	Toronto, ON
+470	Senior Machine Learning Engineer	Toronto, ON
+471	Scientifique des données	Ottawa, ON
+472	Downstream Planning, Data Analyst	Brossard, QC
+473	Data Engineering Co-op - Product Support Engineering	Canada
+474	Data Scientist Technical Lead (Montreal), Intact Lab	Montreal, QC
+475	Sr. Data Scientist - Experimentation	Waterloo, ON
+476	Translational Research Associate	Mississauga, ON
+477	Data Scientist, Revenue & Growth Finance - Location Flexible	Toronto, ON
+478	Data Analyst (Portfolio Management)	Regina, SK
+479	Data Scientist, Liquidity and Funding Management	Toronto, ON
+480	Associate Data Scientist (AADP Rotational Program)	Toronto, ON
+481	Senior UX Researcher	Vancouver, BC
+482	Product Data Analyst	Montreal, QC
+483	Product Researcher, Market Research	Ottawa, ON
+484	Software Engineer, Machine Learning Platform	Vancouver, BC
+485	Data Scientist – Remote, Full-time	Laval, QC
+486	Data Analyst-SQL	Mississauga, ON
+487	Staff Data Scientist	Toronto, ON
+488	Data Analyst	Greater Calgary Metropolitan Area
+489	Senior Machine Learning Engineer	Vancouver, BC
+490	Lead Quantitative Researcher, Alternative Data	Ontario, Canada
+491	Canada-Research Associate IV (Scientific) #: 21-11863	Toronto, ON
+492	Data Science Engineer	Victoria, BC
+493	Principal Machine Learning Engineer (Remote US or US Autodesk Offices))	Montreal, QC
+494	Data Analyst	Vancouver, BC
+495	Research Scientist - Translational Biology	Vancouver, BC
+496	Senior Software Developer (NLP, AI and Machine Learning)	Markham, ON
+497	Machine Learning Developer	Ottawa, ON
+498	Lead, Data Science	Edmonton, AB
+499	Tableau Data Analyst	Toronto, ON
+500	Senior Machine Learning Engineer - Image Recognition	Toronto, ON
+501	Data Engineer	Toronto, ON
+502	Research Scientist 1 (Sherbrooke) 1 1	Fleurimont, QC
+503	Data Scientist	Calgary, AB
+504	Senior Research Scientist (#22960)	Chalk River, ON
+505	Data Analyst, Finance	Montreal, Quebec, Canada
+506	Development Researcher	Montreal, QC
+507	Forecasting Analyst	Ontario, Canada
+508	Junior Data Analyst to support consumer health channel and marketing report program - 15892 - Remote	Mississauga, ON
+509	Lead Data Scientist	Ontario, Canada
+510	Big Data Engineer	Toronto, ON
+511	Data Analyst	Montreal, QC
+512	Data Analytics Analyst (AVP)	Mississauga, ON
+513	Principal NLP Researcher	Montreal, QC
+514	Scientifique des données	Ottawa, ON
+515	Data Scientist – Remote, Full-time	Montréal-Est, QC
+516	Data Engineering Co-op - Product Support Engineering	Canada
+517	Data Engineer	Toronto, ON
+518	Research Scientist 1 (Sherbrooke) 1 1	Fleurimont, QC
+519	Downstream Planning, Data Analyst	Brossard, QC
+520	Machine Learning Engineer II	Vancouver, BC
+521	Data Analyst (Portfolio Management)	Regina, SK
+522	Data Analyst (Campaign Engagement)	Waterloo, ON
+523	Senior Threat Researcher	Greater Vancouver, BC
+524	Data Scientist	Calgary, AB
+525	Senior Research Scientist (#22960)	Chalk River, ON
+526	Data & Applied Scientist 2	Vancouver, BC
+527	Data Analyst (Bilingual French & English)	Mississauga, ON
+528	Principal Data Scientist	Greater Toronto Area, Canada
+529	Software Engineer, Machine Learning Platform	Vancouver, BC
+530	Sourcing Data Analyst	Toronto, ON
+531	Data Analyst-SQL	Mississauga, ON
+532	Data Analyst, Finance	Montreal, Quebec, Canada
+533	Senior Machine Learning Engineer, Explore	Toronto, ON
+534	Researcher – SMART Manufacturing Mechanical/Industrial	Kitchener, ON
+535	Python Software Engineer	Mississauga, ON
+536	Analyst, Growth	Toronto, ON
+537	Data Scientist	Vancouver, BC
+538	Development Researcher	Montreal, QC
+539	Forecasting Analyst	Ontario, Canada
+540	Quantum Software Developer	Toronto, ON
+541	Commercial Data Analyst	Toronto, ON
+542	Junior Data Analyst to support consumer health channel and marketing report program - 15892 - Remote	Mississauga, ON
+543	CX Data Analyst - Customer Experience	Thornhill, BC
+544	Lead Data Scientist	Ontario, Canada
+545	Big Data Engineer	Toronto, ON
+546	Data Analyst	Montreal, QC
+547	Data Analytics Analyst (AVP)	Mississauga, ON
+548	Data Analyst (Contract)	Toronto, ON
+549	Sr. Machine Learning Engineer - Facial Recognition Models	Toronto, ON
+550	Senior Data Engineer	Toronto, ON
+551	ML Engineer /Data scientist	Brampton, ON
+552	Senior Specialist, Data Science	Saskatoon, SK
+553	Data Engineer	Ottawa, ON
+554	Data Engineer	Toronto, ON
+555	Machine Learning Data Engineer	Toronto, ON
+556	Data Analyst	Calgary, AB
+557	Data Engineer	Mississauga, ON
+558	Senior Business Intelligence Engineer	Toronto, ON
+559	Senior Data Scientist	Regina, Saskatchewan, Canada
+560	Data Engineer (10-month contract)	Toronto, Ontario, Canada
+561	Associate Researcher	Montreal, QC
+562	Junior Data Engineer (6 Month Contract)	Toronto, ON
+563	Senior Data Scientist, Hotel Fintech	Canada
+564	Expert Data Science	Ottawa, ON
+565	Researcher - Engineered wood products	Vancouver, BC
+566	Senior Machine Learning Engineer II	Toronto, ON
+567	Senior Specialist, Data Science	Saskatoon, SK
+568	Python Software Engineer	Mississauga, ON
+569	Machine Learning Engineer II	Vancouver, BC
+570	Senior Threat Researcher	Greater Vancouver, BC
+571	Sourcing Data Analyst	Toronto, ON
+572	Nonlinear Optics Research Scientist	Markham, ON
+573	Data & Applied Scientist 2	Vancouver, BC
+574	Data Engineer	Ottawa, ON
+575	Quantum Software Developer	Toronto, ON
+576	Principal Data Scientist	Greater Toronto Area, Canada
+577	Software Engineer - Machine Learning (Remote)	Ottawa, ON
+578	Inference Data Scientist	Ottawa, ON
+579	Senior Machine Learning Engineer, Explore	Toronto, ON
+580	Data Analyst (Bilingual French & English)	Montreal, QC
+581	Data Engineer	Toronto, ON
+582	Machine Learning Data Engineer	Toronto, ON
+583	Product Data Scientist	Waterloo, ON
+584	Data Scientist	Waterloo, ON
+585	Analyst, Growth	Toronto, ON
+586	Data Scientist	Vancouver, BC
+587	Data Scientist	Toronto, ON
+588	Senior Data Scientist, Hotel Fintech	Canada
+589	Expert Data Science	Ottawa, ON
+590	Senior Data Scientist - RACE21	Vancouver, BC
+591	Senior Manager, Data Science	Montreal, QC
+592	Associate Researcher	Montreal, QC
+593	Junior Data Engineer (6 Month Contract)	Toronto, ON
+594	Senior Data Scientist	Toronto, Ontario, Canada
+595	Nonlinear Optics Research Scientist	Markham, ON
+596	Data Scientist, Revenue Management	Montreal, QC
+597	Inference Data Scientist	Ottawa, ON
+598	Senior Machine Learning Engineer, Explore	Toronto, ON
+599	Senior Data Engineer	Toronto, ON
+600	Data Engineer	Vancouver, BC
+601	Chercheur Scientifique Stagiaire (Automne 2021) - ASR - Research Scientist Intern (Fall 2021)	Montreal, QC
+602	Visiting Researcher, Artificial Intelligence | Chercheur ou chercheuse invité(e), Intelligence artificielle	Montreal, QC
+603	Software Engineer - Machine Learning (Remote)	Ottawa, ON
+604	Data Scientist	Waterloo, ON
+605	Senior Machine Learning Engineer	Vancouver, BC
+606	Data and Analytics Programmer	London, ON
+607	Data Scientist	Toronto, ON
+608	Product Data Scientist	Waterloo, ON
+609	Senior Data Analyst-Data Science Experimentation	Vancouver, BC
+610	Data Engineer, Omnia AI (Montreal)	Montreal, QC
+611	Machine Learning Engineer	Toronto, ON
+612	Engineer - Machine Learning Software	Markham, ON
+613	User Experience Researcher - Verily Health Platform (Kitchener-Waterloo, Canada)	Waterloo, ON
+614	DATA ANALYST (contract)	Vancouver, BC
+615	Data Analyst	Toronto, ON
+616	Machine Learning Software Engineer	Toronto, ON
+617	Staff Data Scientist (Remote)	Vancouver, BC
+618	User Experience Researcher	Waterloo, ON
+619	Data Scientist - EA SPORTS Security	Vancouver, BC
+620	Data Scientist (Digital Solutions)	Edmonton, AB
+621	Senior Data Scientist	Toronto, ON
+622	Data Engineer	Toronto, ON
+623	Python & GCP Data Engineer	Toronto, ON
+624	Research Scientist, Quantum Chemistry	Vancouver, BC
+625	Data Scientist – TELUS Agriculture	Vancouver, BC
+626	Senior Consultant, Data Science	Toronto, ON
+627	Data Scientist, CryptoEconLab	Edmonton, Alberta, Canada
+628	Data Science Analyst - People Analytics	Brampton, ON
+629	Principal Consultant, Data Science	Vancouver, BC
+630	Data Analyst	Montreal, QC
+631	Data Analyst	Montreal, QC
+632	Postdoctoral Researcher	Montréal-Est, QC
+633	Machine Learning Engineer, Computer Vision	Montreal, QC
+634	Junior Data Analyst	Mississauga, ON
+635	Data Scientist - Performance Engineering - Toronto Hub	Toronto, ON
+636	Machine Learning Engineer	Calgary, AB
+637	Senior Data Scientist, Hotel Fintech	Canada
+638	Staff Applied Research Scientist - ATG	Montreal, QC
+639	Senior Data Scientist - RACE21	Vancouver, BC
+640	Senior Manager, Data Science	Montreal, QC
+641	Data Engineer	Kitchener, ON
+642	Senior Consultant, Data Science	Toronto, ON
+643	Associate, Process Manager	Toronto, ON
+644	Senior Machine Learning Engineer	Toronto, ON
+645	Senior Data Scientist	Toronto, Ontario, Canada
+646	Principal Machine Learning Engineer	Toronto, ON
+647	Data Scientist, Revenue Management	Montreal, QC
+648	Data Scientist, CryptoEconLab	Edmonton, Alberta, Canada
+649	Data Science Analyst - People Analytics	Brampton, ON
+650	Visiting Researcher, Artificial Intelligence | Chercheur ou chercheuse invité(e), Intelligence artificielle	Montreal, QC
+651	Senior Data Scientist - AWS Professional Services	Vancouver, BC
+652	Chercheur Scientifique Stagiaire (Automne 2021) - ASR - Research Scientist Intern (Fall 2021)	Montreal, QC
+653	Senior Machine Learning Engineer	Vancouver, BC
+654	Senior Machine Learning Engineer	Vancouver, BC
+655	Principal Consultant, Data Science	Vancouver, BC
+656	Data Engineer	Toronto, ON
+657	Senior Data Scientist	Vancouver, BC
+658	Senior Data Analyst-Data Science Experimentation	Vancouver, BC
+659	Data Scientist, Revenue & Growth Finance - Location Flexible	Vancouver, BC
+660	Data Engineer, Omnia AI (Montreal)	Montreal, QC
+661	Research Scientist: Healthy Individual Behaviours Scientist	Calgary, AB
+662	Engineer - Machine Learning Software	Markham, ON
+663	Data Analyst	Montreal, QC
+664	Data Analyst, Embedded Systems	Oakville, ON
+665	Data Analyst	Toronto, ON
+666	Data Engineer	Toronto, ON
+667	Machine Learning Software Engineer	Toronto, ON
+668	Data Science Manager (Bangkok based)	Vancouver, BC
+669	Data Analyst	Montreal, QC
+670	Postdoctoral Researcher	Montréal-Est, QC
+671	Software Developer (Python, Spark)	Markham, ON
+672	Data Scientist - EA SPORTS Security	Vancouver, BC
+673	Data Engineer	Toronto, ON
+674	Machine Learning Engineer, Computer Vision	Montreal, QC
+675	Junior Data Analyst	Mississauga, ON
+676	Data Scientist - Performance Engineering - Toronto Hub	Toronto, ON
+677	Machine Learning Engineer	Calgary, AB
+678	Data Engineer	Toronto, ON
+679	Data Analyst I	Winnipeg, MB
+680	Associate Educator, Data Scientist	Vancouver, BC
+681	Machine Learning Engineer	Toronto, ON
+682	Data Management Professional, Maintenance Data Analysis & Aircraft Economics	Dorval, QC
+683	Lead Data Scientist, Alternative Data	Toronto, ON
+684	Data Engineer - Machine Learning	Vancouver, BC
+685	Principal Machine Learning Engineer (Remote US or US Autodesk Offices))	Toronto, ON
+686	Sr. Machine Learning Engineer - Facial Recognition Models	Vancouver, BC
+687	Staff Applied Research Scientist - ATG	Montreal, QC
+688	Associate, Process Manager	Toronto, ON
+689	Data Scientist, Revenue Management	Montreal, QC
+690	Senior Machine Learning Engineer	Toronto, ON
+691	Data Engineer, Omnia AI (Montreal)	Montreal, QC
+692	Junior Data Analyst	Mississauga, ON
+693	Principal Machine Learning Engineer	Toronto, ON
+694	Chercheur Scientifique Stagiaire (Automne 2021) - ASR - Research Scientist Intern (Fall 2021)	Montreal, QC
+695	Senior Data Scientist - AWS Professional Services	Vancouver, BC
+696	Senior Machine Learning Engineer	Vancouver, BC
+697	Senior Data Scientist	Vancouver, BC
+698	Machine Learning Software Engineer	Toronto, ON
+699	Data Scientist - Performance Engineering - Toronto Hub	Toronto, ON
+700	Data Scientist, Revenue & Growth Finance - Location Flexible	Vancouver, BC
+701	Research Scientist: Healthy Individual Behaviours Scientist	Calgary, AB
+702	Data Scientist – Remote, Full-time	Montreal, QC
+703	Data Analyst, Embedded Systems	Oakville, ON
+704	Data Analyst	Toronto, ON
+705	Machine Learning Engineer	Calgary, AB
+706	Data Engineer	Toronto, ON
+707	Data Science Manager (Bangkok based)	Vancouver, BC
+708	Data Engineer	Toronto, ON
+709	Data & Applied Scientist	Vancouver, BC
+710	Data Analyst	Montreal, QC
+711	Data Analyst (Campaign Engagement)	Toronto, ON
+712	Data Analyst I	Winnipeg, MB
+713	Associate Educator, Data Scientist	Vancouver, BC
+714	Data Engineer	Mississauga, ON
+715	Data Engineer	Toronto, ON
+716	Data Engineer	Toronto, ON
+717	Machine Learning Engineer	Toronto, ON
+718	Data Management Professional, Maintenance Data Analysis & Aircraft Economics	Dorval, QC
+719	Lead Data Scientist, Alternative Data	Toronto, ON
+720	Data Engineer - Machine Learning	Vancouver, BC
+721	Principal Machine Learning Engineer (Remote US or US Autodesk Offices))	Toronto, ON
+722	Sr. Machine Learning Engineer - Facial Recognition Models	Vancouver, BC
+723	Lead Machine Learning Engineer	Toronto, ON
+724	Senior Machine Learning Engineer	Toronto, ON
+725	Tableau Data Analyst	Algoma, Unorganized, North Part, Ontario, Canada
+726	Data Engineer	Greater Toronto Area, Canada
+727	Associate Research Scientist - Translational Biology	Vancouver, BC
+728	Data Analyst, Revenue	Montreal, Quebec, Canada
+729	Data Engineer	Halifax, NS
+730	Junior Data Analyst to support consumer health channel and marketing report program - 15892 - Remote	Victoria, ON
+731	Big Data Engineer	Toronto, ON
+732	Machine Learning Engineer (Soil Carbon)	Vancouver, BC
+733	Internal Audit Data Science Lead (NLP)	Mississauga, ON
+734	Développeur principal, science des données	Toronto, ON
+735	Analyste de données	Montreal, QC
+736	Data Analyst	Montreal, QC
+737	Senior Machine Learning Engineer	Toronto, ON
+738	Specialist Data Science	Montreal, QC
+739	Principal Machine Learning Engineer	Toronto, ON
+740	Senior Machine Learning Engineer	Vancouver, BC
+741	Research Scientist: Healthy Individual Behaviours Scientist	Calgary, AB
+742	Lead Data Scientist, Alternative Data	Toronto, ON
+743	Data Analyst, Embedded Systems	Oakville, ON
+744	Staff Data Scientist - Product	Toronto, ON
+745	Data Scientist – Remote, Full-time	Montreal, QC
+746	Data Engineer	Toronto, ON
+747	Data Scientist	Waterloo, ON
+748	Data Engineer - Machine Learning	Vancouver, BC
+749	Data Engineer	Toronto, ON
+750	Data Analyst (Bilingual French & English)	Montreal, QC
+751	Data & Applied Scientist	Vancouver, BC
+752	Data Analyst	Montreal, QC
+753	Robotics Software Engineer	Toronto, ON
+754	Data Analyst (Campaign Engagement)	Toronto, ON
+755	Principal Machine Learning Engineer (Remote US or US Autodesk Offices))	Toronto, ON
+756	Sr. Machine Learning Engineer - Facial Recognition Models	Vancouver, BC
+757	Data Engineer	Mississauga, ON
+758	Machine Learning Engineer-Recommendations	Toronto, ON
+759	Data Engineer	Toronto, ON
+760	Data Engineer	Waterloo, ON
+761	(CAN) Data Analyst - Fulfillment Center	Mississauga, ON
+762	Lead Machine Learning Engineer	Toronto, ON
+763	Senior Machine Learning Engineer	Toronto, ON
+764	Senior Data Engineer	Toronto, ON
+765	Data Engineer(AWS)	Canada
+766	Tableau Data Analyst	Algoma, Unorganized, North Part, Ontario, Canada
+767	Data Engineer	Greater Toronto Area, Canada
+768	Associate Research Scientist - Translational Biology	Vancouver, BC
+769	Data Analyst, Revenue	Montreal, Quebec, Canada
+770	Data Engineer	Halifax, NS
+771	Junior Data Analyst to support consumer health channel and marketing report program - 15892 - Remote	Victoria, ON
+772	Big Data Engineer	Toronto, ON
+773	Machine Learning Engineer (Soil Carbon)	Vancouver, BC
+774	Internal Audit Data Science Lead (NLP)	Mississauga, ON
+775	Développeur principal, science des données	Toronto, ON
+776	Analyste de données	Montreal, QC
+777	Data Analyst	Montreal, QC
+778	Analyst, Master Data	Fort Saskatchewan, AB
+779	AI/ML Lead	Brampton, ON
+780	Software Developer, Machine Learning	Montreal, QC
+781	Manager Data Analytics	Toronto, ON
+782	Data Engineer Consultant	Vancouver, BC
+783	Data Scientist	Montreal, QC
+784	Data Scientist (Digital Solutions)	Calgary, AB
+785	Data Analyst (6-Month Contract)	Welland, ON
+786	Lead Data Engineer	Montreal, QC
+787	Specialist Data Science	Montreal, QC
+788	Spend Management Machine Learning Solution Architect / Data Scientist	Victoria, BC
+789	Sr. Principal Machine Learning Engineer	Toronto, ON
+790	Language Researcher / Data Analyst	New Westminster, BC
+791	Data Analyst (Bilingual French & English)	Montreal, QC
+792	Analyst, Master Data	Fort Saskatchewan, AB
+793	Planification en aval - analyste de données	Brossard, QC
+794	Staff Data Scientist - Product	Toronto, ON
+795	Data Engineer	Canada
+796	Perception Research Scientist	Markham, ON
+797	Data Scientist	Waterloo, ON
+798	AI/ML Lead	Brampton, ON
+799	Software Developer, Machine Learning	Montreal, QC
+800	Robotics Software Engineer	Toronto, ON
+801	Software Engineer - Machine Learning (Remote)	Toronto, ON
+802	Inference Data Scientist	London, ON
+803	Data Analyst	Canada
+804	Software Engineer, Machine Learning	Vancouver, BC
+805	Student Intern - Analyst, Market Strategy & Insights (Fall Term)	Toronto, ON
+806	Manager Data Analytics	Toronto, ON
+807	Python/Spark Data Engineer	Toronto, ON
+808	Software Engineer - North American Integrated Analytics Team	Toronto, ON
+809	Remote Pilot / Data Analyst	Waterloo, ON
+810	Machine Learning Engineer-Recommendations	Toronto, ON
+811	Data Scientist	Vancouver, BC
+812	(CAN) Data Analyst - Fulfillment Center	Mississauga, ON
+813	Ingénieur·e de données /Data Engineer	Montreal, QC
+814	Data Engineer	Waterloo, ON
+815	Data Engineer, Analytics	Toronto, ON
+816	Data Analyst	Toronto, ON
+817	Python & GCP Data Engineer	Toronto, ON
+818	Senior Data Engineer	Toronto, ON
+819	Data Engineer Consultant	Vancouver, BC
+820	Data Scientist	Montreal, QC
+821	Data Engineer(AWS)	Canada
+822	Data Engineer	Toronto, ON
+823	Data Scientist (Digital Solutions)	Calgary, AB
+824	Data Analyst (6-Month Contract)	Welland, ON
+825	Lead Data Engineer	Montreal, QC
+826	Staff Data Scientist	Toronto, ON
+827	SW Engineer - Backend (in Machine Learning)	Toronto, ON
+828	Data Engineer II	Toronto, ON
+829	Software Engineer, Task Planning	Vancouver, BC
+830	Machine Learning Software Engineer – Hiring Sprint (July 28, 2021)	Toronto, ON
+831	Data Engineer (fulltime)	Toronto, ON
+832	Research Scientist, CryptoNetLab	Edmonton, Alberta, Canada
+833	Senior Manager, Data Science	Montreal, QC
+834	UX Data Analyst	Toronto, ON
+835	Senior Data Scientist - Optimization Specialist	Brampton, ON
+836	Remote Data Engineer	Calgary, AB
+837	Senior AI Applied Research Scientist - ATG	Montreal, QC
+838	Spend Management Machine Learning Solution Architect / Data Scientist	Victoria, BC
+839	Lead Data Scientist - RACE21	Vancouver, BC
+840	Senior Data Scientist	Toronto, ON
+841	Software Engineer - Machine Learning (Remote)	Toronto, ON
+842	Software Engineer, Machine Learning	Vancouver, BC
+843	Sr. Principal Machine Learning Engineer	Toronto, ON
+844	Principal Data Scientist	Toronto, ON
+845	Analyste quantitatif, analyse de données	Montreal, QC
+846	ANALYSTE PRINCIPAL/E DE DONNÉES – MOBILITÉ / SENIOR DATA ANALYST - MOBILITY	Montreal, QC
+847	Senior Machine Learning Engineer	Toronto, ON
+848	Data Engineer	Canada
+849	Data Engineer II	Toronto, ON
+850	Senior Data Scientist (Bangkok based, relocation provided)	Toronto, ON
+851	Design Researcher, Senior Consultant, Consulting (NCR)	Ottawa, ON
+852	Planification amont - Analyste de données	Brossard, QC
+853	Chercheur Scientifique Stagiaire (Automne 2021) - NLP - Research Scientist Intern (Fall 2021)	Montreal, QC
+854	Solutions Engineering (Data Science)	Waterloo, ON
+855	Software Engineer, Task Planning	Vancouver, BC
+856	Python/Spark Data Engineer	Toronto, ON
+857	Data Analyst	Canada
+858	Language Researcher / Data Analyst	Vancouver, BC
+859	Data Engineer	Vancouver, BC
+860	Software Engineer - North American Integrated Analytics Team	Toronto, ON
+861	Senior Data Analyst-Data Science Orchestration	Vancouver, BC
+862	Machine Learning Software Engineer – Hiring Sprint (July 28, 2021)	Toronto, ON
+863	Data Engineer (fulltime)	Toronto, ON
+864	Data Analyst 3	Toronto, ON
+865	Data Analyst - Fraud Detection	Montreal, QC
+866	Data Analyst - UFC	Vancouver, BC
+867	Data Engineer, Analytics	Toronto, ON
+868	Senior Data Engineer	Toronto, ON
+869	Data Engineer	Toronto, ON
+870	Research Scientist, CryptoNetLab	Edmonton, Alberta, Canada
+871	Data Analyst	Toronto, ON
+872	Senior Manager, Data Science	Montreal, QC
+873	UX Data Analyst	Toronto, ON
+874	Remote UX Researcher	Calgary, AB
+875	Data engineer	Toronto, ON
+876	Senior Data Scientist - Optimization Specialist	Brampton, ON
+877	Data Analysts	Edmonton, AB
+878	Machine Learning Engineer	Winnipeg, MB
+879	Associate Educator, Data Scientist	Toronto, ON
+880	Senior Data Scientist, DBX Core Data Science - Location Flexible	Vancouver, BC
+881	Data Analyst	Toronto, ON
+882	Data Engineer	Valcourt, QC
+883	Machine Learning Engineer	Halifax, NS
+884	Postdoctoral Researcher (Computational Biology and Machine Learning)	Montréal-Est, QC
+885	Analyste de donnée digitales -scientifiques	Montreal, QC
+886	Environmental Scientist	Burnaby, BC
